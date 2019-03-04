@@ -2,17 +2,15 @@
  * Matrix.cpp
  *
  *  Created on: Mar 3, 2019
- *      Author: damadam
+ *      Author: Adam Aleweidat
  */
 
 #include "Matrix.h"
 
-Matrix::Matrix() {
-	// TODO Auto-generated constructor stub
-
+Matrix::Matrix()
+{
 }
 
-Matrix::~Matrix() {
-	// TODO Auto-generated destructor stub
+Matrix::~Matrix()
+{
 }
-
